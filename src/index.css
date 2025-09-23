@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+* {
+  font-family: "Bree Serif", serif;
+}
+
+
+::selection {
+  color: rgb(255, 227, 137);
+}
